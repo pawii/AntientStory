@@ -1,0 +1,315 @@
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\pawii\Desktop\Учеба\GameDev\Прокеты Unity\MyFirstGame\obj\Debug\Assembly-CSharp.pdb
+D:\CourseWork\AntientStory\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CourseWork\AntientStory\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\CourseWork\AntientStory\obj\Debug\Assembly-CSharp.dll
+D:\CourseWork\AntientStory\obj\Debug\Assembly-CSharp.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\mscorlib.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\netstandard.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\nunit.framework.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.AppContext.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Collections.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ComponentModel.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Console.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Core.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Data.Common.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Data.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Drawing.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Globalization.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.Compression.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Linq.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.Http.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.Ping.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.Requests.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.Security.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Numerics.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ObjectModel.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Reflection.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Claims.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.Principal.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Transactions.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.ValueTuple.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Web.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Windows.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Locator.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEditor.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Advertisements.Editor.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Cecil.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.DataContract.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.IvyParser.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEditor.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.UI.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\nunit.framework.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\CourseWork\AntientStory\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\CourseWork\AntientStory\obj\Debug\Assembly-CSharp.csproj.CopyComplete
